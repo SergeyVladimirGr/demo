@@ -22,4 +22,4 @@ class Main {
     int result  = sum(value1, value2, value3);
     System.out.println("Сумма чисел = " + result);
   }
-}
+} // demo
